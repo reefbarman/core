@@ -1,0 +1,27 @@
+homeassistant/components/homeassistant/triggers/numeric_state.py
+  h_e08a86bb3a33a2 183-192
+tests/components/homeassistant/triggers/test_numeric_state.py
+  h_e08a86bb3a33a2 2105-2125,2132-2133,2164-2191
+  s_2cbe765bb34868::t_e007f3089f2288 2192-2193
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "498efb2388ebaa74e09de5567622d10a2c9ed262",
+  "prompts": {},
+  "humans": {
+    "h_e08a86bb3a33a2": {
+      "author": "Tristan Cartledge <tristan.cartledge@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_2cbe765bb34868": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e002d65f-8fa7-4420-80e1-e6ddd488f935",
+        "model": "unknown"
+      },
+      "human_author": "Tristan Cartledge <tristan.cartledge@gmail.com>"
+    }
+  }
+}
